@@ -1,0 +1,34 @@
+--- 
+title: "Vinkit C5-kurssien opiskeluun"
+author: "Remo Kapanen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown::gitbook,
+  set in the _output.yml file.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# C5 pähkinänkuoressa
+
+C5 eli kolmannen vuoden syksy on mielestäni lääkiksen turhin lukukausi. Isoimmat kurssit eli laboratoriolääketiede, keuhkosairausoppi ja kliinisen lääketieteen perusteet (KLP) yrittävät luoda kosketuspintaa klinikkaan, mutta niiden isoin ongelma on se, että asioita ei opita siinä syvyydessä, että niistä muodostuisi järkevä kokonaisuus.Sen sijaan, että tarjotaan puoliksi keitettyjä versioita sisätautien kurssista, olisi paljon mielekkkäämpää hypätä suoraan itse sisätauteihin.  
+
+Näiden kolmen isomman kurssin lisäksi syksyllä on myös muitakin pakollisia kursseja, joista suurinta päänvaivaa ihmisille yleensä aiheuttaa ruotsin suullinen osuus.
+
+Loput pikkukurssit C5-syksyllä ovat säteilysuojelu, diagnostisten alojen yhteisopetus ja havainnosta päättelyyn II (HP2).
+
+Kaiken kaikkiaan kursseja on monta, mutta niiden sisältämät kokonaisuudet ovat todella pieniä ja tekemistä ei ole kovinkaan paljoa, jonka takia syksy tuntuu koulun suhteen todella tyhjältä. Jos miettii reissaamista syksyllä, niin hyvin pystyy tehdä viikon tai jopa pidemmänkin matkan, jos vain vähän siirtelee pakollisia opetuksia toisten ryhmien kanssa tai tekee muutamia helppoja korvattavia tehtäviä. 
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

@@ -1,0 +1,104 @@
+# Laboratoriolääketiede {#Laboratoriolaaketiede}
+
+Syksy alkaa laboratoriolääketieteen kurssilla, joka koostuu 18 luennosta, 4 seminaarista ja 2 harjoitustyöstä. Materiaali käytännössä kattaa paljon sisätautien kurssista, mutta asiat käydään läpi pienemmällä syvyydellä eikä tautien hoidon osaamista yleisesti vaadita.
+
+## Opiskelun workflow  
+
+Luennot jättävät usein asioita hyvin pinnallisesti käsitellyiksi, ja seminaareissa (tai ainakin seminaarien vastausteksteissä) usein syvennytään hieman enemmän aiheisiin. Suosittelen lataamaan kaikkien seminaarien vastaus-pdf:t Caliduksen Moodlesta ja lukemaan ne läpi ennen tiettyjen tagien läpikäymistä Rankissa. 
+
+Seuraavaksi käydään läpi opiskelun workflow Rankin tägeittäin sen suhteen, että mitä suosittelen luettavaksi/katsottavaksi ennen Rankin kortteihin hyppäämistä. Kertauksena siis: Rankin käyttöperiaate on se, että ensin opiskellaan aihe ja vasta sitten unsuspendataan ja käydään läpi aiheeseen liittyvät kortit. 
+
+- Huom. suurin osa korteista tulevilla kursseilla on jaettu ns. annin (yield) mukaan kortteihin, jotka ovat mielestäni todella tärkeitä (korkean annin), suht. tärkeitä (kohtalaisen annin) ja sitten enemmänkin syventävää tietoa (matalan annin). Tällä kurssilla kortit eivät ole vielä jaoteltu näin, koska valtaosa korteista on mielestäni tärkeitä.
+
+### 00: Laboratorion toiminta
+
+Laboratorion toiminta -luennolta ei ole kortteja. 
+
+### 01: Verinäytteenotto {#Verinaytteenotto}
+
+Riittää käydä läpi vain luentodiat. Tämän jälkeen voi unsuspendata tagin kortit. 
+
+### 02: Laboratorion laatujärjestelmä {#Laboratorion-laatujarjestelma}
+
+Luentodiat riittävät. 
+
+### 03: Preanalyyttiset tekijät {#Preanalyyttiset-tekijat}
+
+Luentodiat riittävät. 
+
+### 04: Diagnostinen herkkyys ja tarkkuus 
+
+Luentodiat riittävät. 
+
+### 05: Verenkuvan tulkinta 
+
+Luentodiojen lisäksi suosittelen lukemaan läpi seminaarin 5 tapauksen 4 vastaukset. Ne syventävät teoriaa diffin suhteen.
+
+### 06: Anemian laboratoriotutkimukset 
+
+Luentodiojen lisäksi suosittelen lukemaan läpi seminaarin 5 tapausten 1-3 vastaukset. Ne syventävät teoriaa anemian suhteen. 
+
+### 07: Kromosomi- ja DNA-diagnostiikka
+
+Luentodiat riittävät. Jätin jonkin verran kortteja diojen aiheista tekemättä, sillä koin monien niistä olevan hyvin matalan annin aiheita kurssin suhteen. 
+
+### 08: Verensiirrot 
+
+Suosittelen käymään läpi kaikki luennot ja harjoitustyömateriaalin (Perustietoa verensiirroista + Verikeskusharjoitustyön luento + LAB7)) verensiirroista yhdellä kertaa, sillä ne kaikki käsittelevät samaa asiaa.
+
+### 09: Nestetasapainon ja happo-emästasapainon laboratoriotutkimukset {#Nestetasapainon-ja-happo-emastasapainon-laboratoriotutkimukset}
+
+Suosittelen käymään läpi luennon lisäksi LAB3 seminaarin kaikki vastaukset. 
+
+Näiden lisäksi suosittelen hakemaan aiheesta lisäopetusmateriaalia: 
+
+- Hyponatremia:
+
+  - Todella hyvä [podcast-jakso](https://thecurbsiders.com/curbsiders-podcast/medical-education/48-hyponatremia-deconstructed)
+  
+  - SketchyIM: Hyponatremia clinical presentation 
+
+- Hypernatremia: 
+
+  - Yllä mainitun podcastin päävieraan kirjoittaman [kirjan](https://www.dropbox.com/scl/fi/su5a80q9gb3ize0tn85z3/The-whole-enchilada.pdf?rlkey=89f8gpkgek0ibknywv4qjsugb&e=2&dl=0) Hypernatremia-osuudesta jonkin verran (kpl 8 eli s.177 eteenpäin). Myös hyponatremiasta kannattaa lukea. 
+  
+  - SketchyIM: Hypernatremia 
+  
+- Happo-emästasapaino: 
+
+  - SketchyPath: Renal -> Acid/Base disorders 
+  
+### 10: Kudosvaurioiden merkkiaineet 
+
+Diojen lisäksi suosittelen käymään läpi LAB4-seminaarin tapausten 1 ja 2 vastaukset. Ne avaavat lisää troponiinien ja rabdomyolyysin teoriaa. 
+
+### 11: Endokrinologiset laboratoriotutkimukset
+
+Diojen lisäksi suositellen käymään läpi LAB4-seminaarin tapaukset 4 ja 5. Ne avaavat hypo-/hypertyreoosin ja hyperkortisolismin diagnostiikkaa. 
+
+### 12: Kalsium- ja fosfaattiaineenvaihdunnan tutkimukset 
+
+Diojen lisäksi suosittelen käymään läpi LAB4-seminaarin tapauksen 6. Se avaa hyperkalsemian diagnostiikkaa. 
+
+### 13: Diabeteksen laboratoriotutkimukset 
+
+Diat riittävät. Halutessaan voi lukaista LAB2 tapauksen 4 ja 5 vastaukset, jotka käyvät läpi diabeteksen ja MBO:n diagnostiikkaa. 
+
+### 14: Hemostaasin perustutkimukset 
+
+Diojen lisäksi suosittelen käymään läpi LAB5 tapaukset 5 ja 6. 
+
+### 15: Proteiinien ja lipoproteiinien määritykset {Proteiinien-ja-lipoproteiinien-maaritykset}
+
+Diat riittävät. Suosittelen kuitenkin katsomaan jonkun opetusvideon lipoproteiinikierrosta (kylomikroni, VLDL, IDL, LDL), jos se on päässyt unohtumaan. 
+
+### 16: Vieritestit 
+
+Suosittelen käymään vieritestien luentodiat ja vieritestien harjoitustyön (LAB6) diat samassa yhteydessä läpi. 
+
+### Seminaarien jämiä {#Seminaarien-jamia} 
+
+LAB2-seminaarissa käydään läpi muutamia asioita, joita ei ole muissa kurssin materiaaleissa. Tämän takia tapauksista 1, 2 ja 6 on tehty muutamia kortteja kerrattavaksi. 
+
+LAB4-seminaarin tapauksessa 3 käsitellään vastasyntyneen seulontoja ja mainitaan ohimennen muutamia aikuisillekin todella tärkeitä seulontatestejä (calpro ja keliseul). Näistä on tehty muutama kortti.
+
