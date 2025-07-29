@@ -2,6 +2,8 @@
 
 Syksy alkaa laboratoriolääketieteen kurssilla, joka koostuu 18 luennosta, 4 seminaarista ja 2 harjoitustyöstä. Materiaali käytännössä kattaa paljon sisätautien kurssista, mutta asiat käydään läpi pienemmällä syvyydellä eikä tautien hoidon osaamista yleisesti vaadita.
 
+Jos Caliduksen tärppejä ei löydy wikistä, niin [täällä](Kontsa/Lablaak.pdf) on kurssimme keräämä lista kysymyksiä laboratoriolääketieteen Exam-tentistä.
+
 ## Opiskelun workflow  
 
 Luennot jättävät usein asioita hyvin pinnallisesti käsitellyiksi, ja seminaareissa (tai ainakin seminaarien vastausteksteissä) usein syvennytään hieman enemmän aiheisiin. Suosittelen lataamaan kaikkien seminaarien vastaus-pdf:t Caliduksen Moodlesta ja lukemaan ne läpi ennen tiettyjen tagien läpikäymistä Rankissa. 
@@ -32,7 +34,7 @@ Luentodiat riittävät.
 
 ### 05: Verenkuvan tulkinta 
 
-Luentodiojen lisäksi suosittelen lukemaan läpi seminaarin 5 tapauksen 4 vastaukset. Ne syventävät teoriaa diffin suhteen.
+Luentodiojen lisäksi suosittelen lukemaan läpi seminaarin 5 tapauksen 4 vastaukset. Ne syventävät teoriaa diffin suhteen. Samasta tapauksesta on myös omassa tägissään leukemiakortteja. 
 
 ### 06: Anemian laboratoriotutkimukset 
 
@@ -88,7 +90,7 @@ Diat riittävät. Halutessaan voi lukaista LAB2 tapauksen 4 ja 5 vastaukset, jot
 
 Diojen lisäksi suosittelen käymään läpi LAB5 tapaukset 5 ja 6. 
 
-### 15: Proteiinien ja lipoproteiinien määritykset {Proteiinien-ja-lipoproteiinien-maaritykset}
+### 15: Proteiinien ja lipoproteiinien määritykset {#Proteiinien-ja-lipoproteiinien-maaritykset}
 
 Diat riittävät. Suosittelen kuitenkin katsomaan jonkun opetusvideon lipoproteiinikierrosta (kylomikroni, VLDL, IDL, LDL), jos se on päässyt unohtumaan. 
 
@@ -102,3 +104,4 @@ LAB2-seminaarissa käydään läpi muutamia asioita, joita ei ole muissa kurssin
 
 LAB4-seminaarin tapauksessa 3 käsitellään vastasyntyneen seulontoja ja mainitaan ohimennen muutamia aikuisillekin todella tärkeitä seulontatestejä (calpro ja keliseul). Näistä on tehty muutama kortti.
 
+LAB5-seminaarin tapauksessa 4 käsitellään leukemioita. Olen tägännyt sisätautien ja patologian leukemiakortteja tähän yhteyteen omaksi paketikseen. 

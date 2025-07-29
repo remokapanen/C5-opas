@@ -15,9 +15,9 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# C5 pähkinänkuoressa
+# C5 pähkinänkuoressa {#C5-pahkinankuoressa}
 
-C5 eli kolmannen vuoden syksy on mielestäni lääkiksen turhin lukukausi. Isoimmat kurssit eli laboratoriolääketiede, keuhkosairausoppi ja kliinisen lääketieteen perusteet (KLP) yrittävät luoda kosketuspintaa klinikkaan, mutta niiden isoin ongelma on se, että asioita ei opita siinä syvyydessä, että niistä muodostuisi järkevä kokonaisuus.Sen sijaan, että tarjotaan puoliksi keitettyjä versioita sisätautien kurssista, olisi paljon mielekkkäämpää hypätä suoraan itse sisätauteihin.  
+C5 eli kolmannen vuoden syksy on mielestäni lääkiksen turhin lukukausi. Isoimmat kurssit eli laboratoriolääketiede, keuhkosairausoppi ja kliinisen lääketieteen perusteet (KLP) yrittävät luoda kosketuspintaa klinikkaan, mutta niiden isoin ongelma on se, että asioita ei opita siinä syvyydessä, että niistä muodostuisi järkevä kokonaisuus. Sen sijaan, että tarjotaan puoliksi keitettyjä versioita sisätautien kurssista, olisi paljon mielekkkäämpää hypätä suoraan itse sisätauteihin.  
 
 Näiden kolmen isomman kurssin lisäksi syksyllä on myös muitakin pakollisia kursseja, joista suurinta päänvaivaa ihmisille yleensä aiheuttaa ruotsin suullinen osuus.
 

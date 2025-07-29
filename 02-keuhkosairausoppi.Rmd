@@ -2,6 +2,9 @@
 
 C5-lukuvuonna käydään 1 op arvosta keukosairausoppia läpi. Kurssi jää hyvin vaisuksi materiaalin syvyyden kannalta ja taas toisinaan painottaa hieman vähemmän järkeviä asioita. 
 
+Jos Caliduksen tärppejä ei löydy wikistä, niin [täällä](Kontsa/Keuhkosairausoppi.pdf) on kurssimme keräämä lista kysymyksiä keuhkosairausopin Exam-tentistä.
+
+
 ## Opiskelun workflow 
 
 En tykkää kovinkaan paljoa kurssin rakenteesta luentojen ja ekstramateriaalin suhteen. Esittelen tässä mielestäni yhden järkevän tavan ja yhden vähemmän järkevän tavan opiskella kurssin aiheet. 
