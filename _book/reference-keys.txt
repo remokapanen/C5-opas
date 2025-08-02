@@ -21,6 +21,16 @@ vieritestit
 Seminaarien-jamia
 keuhkosairausoppi
 opiskelun-workflow-1
+Duodecim-Hengityselimiston-anatomia-ja-fysiologia
+luento-01-hengenahdistuksen-mekanismit-ja-hoito
+luento-02-alahengitystieinfektiot-ja-tuberkuloosi
+covid-19
+duodecim-spirometria
+luento-03-keuhkojen-toiminnan-tutkiminen
+luento-04-nikotiinista-vieroitus
+Laakarilehti-Sahkosavutteet
+luento-05-obstruktiiviset-keuhkosairaudet-terveyskeskuksen-vuodeosastolla
+lisälukemista
 Kliinisen-laaketieteen-perusteet
 korteista-huomio
 workflow

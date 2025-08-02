@@ -7,6 +7,82 @@ Jos Caliduksen tärppejä ei löydy wikistä, niin [täällä](Kontsa/Keuhkosair
 
 ## Opiskelun workflow 
 
-En tykkää kovinkaan paljoa kurssin rakenteesta luentojen ja ekstramateriaalin suhteen. Esittelen tässä mielestäni yhden järkevän tavan ja yhden vähemmän järkevän tavan opiskella kurssin aiheet. 
+Kurssi koostuu viidestä luennosta (harmillisesti läsnäolopakko) ja joistakin  ekstramateriaaleista. Rankissa olen jakanut kortit (ainakin pääosin) siten, että luennot ovat omissa paketeissaan ja ekstramateriaalit omissaan. 
 
-- Esittely tulossa, kunhan saan mietittyä sopivan tavan :D
+Tentissä saatetaan kysyä joitakin asioita materiaalien ulkopuolelta, jonka takia suosittelen myös harrastamaan oma-alotteista opiskelua erilaisista aiheista: esim. voi katsoa patologian keuhkosairausoppi-playlistini Youtubesta ja kerrata siihen liittyviä kortteja Rankissa.
+
+- Koulun kurssi ei esimerkiksi kata ollenkaan seuraavia asioita: pulmonaalihypertensio, bronkiektasia tai restriktiiviset keuhkosairaudet. 
+
+Seuraavaksi esittelen järjestyksen, jossa suosittelen, että opiskelet materiaalit ja niiden pohjalta tehdyt kortit. 
+
+### Duodecim: Hengityselimistön anatomia ja fysiologia {#Duodecim-Hengityselimiston-anatomia-ja-fysiologia}
+
+Suosittelen käymään [verkkokurssin](https://www.oppiportti.fi/dvk00245?q=hengityselimist%C3%B6) läpi ihan ensimmäisenä; se kertaa keuhkojen fysiologiaa ja hengitysvajausta. 
+
+- Hengitysvajauksien jaottelua tyypin 1 ja 2 hengitysvajauksiin ei painoteta kurssilla (sivutaan aihetta), mutta jaottelu on todella tärkeää ymmärtää, joten suosittelen hakemaan lisämateriaalia aiheesta, jos et korttien perusteella aihetta ymmärrä. 
+
+
+### Luento 01: Hengenahdistuksen mekanismit ja hoito
+
+Luennon tärkein aihe on erilaiset lisähappi-/ventilaatiolaitteet, mutta ymmärrys niistä jää aika vähäiseksi luennon jälkeen. Suosittelen lukemaan/katsomaan joitakin seuraavista materiaaleista ennen kortteja: 
+
+- Moodleenkin linkatut [Tyks:n Uni- ja hengityskeskuksen hengitysvajaus-oppaat](https://www.tyks.fi/ammattilaiselle/ammattilaisten-palvelut-ja-ohjeet/tyks-uni-ja-hengityskeskus-ammattilaiselle/hengitysvajaus-ammattilaiselle)
+
+- Tämän [Reddit-postauksen](https://www.reddit.com/r/doctorsUK/comments/1983goz/can_someone_explain_the_difference_between_cpap/) ensimmäinen vastaus
+
+- [Conan Liu](https://youtu.be/re1Gopc8mCI?si=1qjSDK3kQ9r1n1c_)
+
+- [Hamilton medical](https://www.hamilton-medical.com/en_FI/Article-page~knowledge-base~0a23091e-4fb0-4626-964d-a36ff984b8dc~A-comprehensive-guide-to-noninvasive-ventilation--NIV-~.html)
+
+
+- [Strong medicine](https://youtu.be/H24YhlQblRM?si=TOwJG8rlcsFm--7C)
+
+
+### Luento 02: Alahengitystieinfektiot ja tuberkuloosi
+
+Luento on pääasiassa riittävä korttien läpikäymiseen. Iso osa korteista on patologian kortteja, jotka on rakennettu [keuhkoinfektiot-videoni](https://youtu.be/cRVxgM2svXI?si=WI-inGJ0yqUgFW0h) pohjalta. 
+
+- Suosittelen myös ehtiessäsi katsomaan SketchyMicron ja SketchyPharmin tuberkuloosivideot, jos et niitä keväällä katsonut. 
+
+### COVID-19 
+
+Koronasta on omat ekstramateriaalit Moodleen linkattuina. Suosittelen lukemaan juuri [lääkärin käsikirjan artikkelin](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt01229/search/covid-19) aiheesta. Sen pohjalta on tehty COVID-19-tägätyt kortit. 
+
+### Duodecim: Spirometria
+
+Suosittelen käymään [verkkokurssin](https://www.oppiportti.fi/dvk00244?q=spirometria) läpi ennen luennon 3 kortteja. Verkkokurssin kortit on tägätty omaksi kokonaisuudeksiin, mutta ne ovat kaikki myös luennon 3 alla. 
+
+### Luento 03: Keuhkojen toiminnan tutkiminen
+
+Suosittelen käymään ym. verkkokurssin läpi, jonka jälkeen käymään luennon 3 läpi, jonka jälkeen käymään kaikki luennon 3 kortit läpi. 
+
+### Luento 04: Nikotiinista vieroitus
+
+Luento riittää korttien läpikäymiseen. 
+
+### Lääkärilehti: Sähkösavukkeiden terveyshaitat {#Laakarilehti-Sahkosavutteet}
+
+Moodlessa on kaksi sähkösavukkeita käsittelevää artikkelia. Lue ainakin lääkärilehden läpi. Sen pohjalta on tehty muutamia kortteja ainakin niistä aiheista, joista tentissä tykättiin kysyä. 
+
+### Luento 05: Obstruktiiviset keuhkosairaudet terveyskeskuksen vuodeosastolla
+
+Luento käsittelee äärimmäisen tärkeää aihetta eli astman ja COPD:n hoitoa ja erityisesti niiden pahenemisvaiheiden händläämistä. 
+
+Suosittelen lukemaan COPD:n ja astman käypähoidot ja lääkärin käsikirja-artikkelit läpi; ne selkeyttävät aihetta huomattavasti. Ainakin silmäile:
+
+- [Astman käypä hoito](https://www.kaypahoito.fi/hoi06030) 
+
+- [COPD käypä hoito](https://www.kaypahoito.fi/hoi06040)
+
+- [COPD lääkärin käsikirja](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00178/search/copd)
+
+
+### Lisälukemista: 
+
+- [Hengitysvajaus](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00164/search/hengitysvajaus)
+
+- [Ilmarinta](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00189/search/ilmarinta)
+
+- [Pleuranesteily](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00192/search/pleuraneste)
+
+- [COPD:n hoitoketju](https://www.terveysportti.fi/apps/dtk/ltk/article/shp01448/search/hengitysvajaus)
