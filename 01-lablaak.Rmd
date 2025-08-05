@@ -6,9 +6,17 @@ Jos Caliduksen tärppejä ei löydy wikistä, niin [täällä](Kontsa/Lablaak.pd
 
 ## Opiskelun workflow  
 
-Luennot jättävät usein asioita hyvin pinnallisesti käsitellyiksi, ja seminaareissa (tai ainakin seminaarien vastausteksteissä) usein syvennytään hieman enemmän aiheisiin. Suosittelen lataamaan kaikkien seminaarien vastaus-pdf:t Caliduksen Moodlesta ja lukemaan ne läpi ennen tiettyjen tagien läpikäymistä Rankissa. 
+Luennot jättävät usein asioita hyvin pinnallisesti käsitellyiksi, ja seminaareissa (tai ainakin seminaarien vastausteksteissä) usein syvennytään hieman enemmän aiheisiin. Suosittelen lataamaan kaikkien seminaarien ja harjoitustöiden vastaus-pdf:t Caliduksen Moodlesta ja lukemaan ne läpi ennen tiettyjen tagien läpikäymistä Rankissa. Jos pdf:t ovat poistuneet sieltä, niin ne voi lataa täältäkin: 
 
-Seuraavaksi käydään läpi opiskelun workflow Rankin tägeittäin sen suhteen, että mitä suosittelen luettavaksi/katsottavaksi ennen Rankin kortteihin hyppäämistä. Kertauksena siis: Rankin käyttöperiaate on se, että ensin opiskellaan aihe ja vasta sitten unsuspendataan ja käydään läpi aiheeseen liittyvät kortit. 
+- [LAB2-vastaukset](Kontsa/LAB2.pdf)
+- [LAB3-vastaukset](Kontsa/LAB3.pdf)
+- [LAB4-vastaukset](Kontsa/LAB4.pdf)
+- [LAB5-vastaukset](Kontsa/LAB5.pdf)
+- [LAB6](Kontsa/LAB6.pdf)
+- [LAB7](Kontsa/LAB7.pdf)
+
+
+Seuraavaksi käydään läpi opiskelun workflow Rankin tägeittäin sen suhteen, että mitä suosittelen luettavaksi/katsottavaksi ennen Rankin kortteihin hyppäämistä. **Kertauksena siis: Rankin käyttöperiaate on se, että ensin opiskellaan aihe ja vasta sitten unsuspendataan ja käydään läpi aiheeseen liittyvät kortit.**
 
 - Huom. suurin osa korteista tulevilla kursseilla on jaettu ns. annin (yield) mukaan kortteihin, jotka ovat mielestäni todella tärkeitä (korkean annin), suht. tärkeitä (kohtalaisen annin) ja sitten enemmänkin syventävää tietoa (matalan annin). Tällä kurssilla kortit eivät ole vielä jaoteltu näin, koska valtaosa korteista on mielestäni tärkeitä.
 
