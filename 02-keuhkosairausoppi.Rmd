@@ -19,7 +19,9 @@ Seuraavaksi esittelen järjestyksen, jossa suosittelen, että opiskelet materiaa
 
 Suosittelen käymään [verkkokurssin](https://www.oppiportti.fi/dvk00245?q=hengityselimist%C3%B6) läpi ihan ensimmäisenä; se kertaa keuhkojen fysiologiaa ja hengitysvajausta. 
 
-- Hengitysvajauksien jaottelua tyypin 1 ja 2 hengitysvajauksiin ei painoteta kurssilla (sivutaan aihetta), mutta jaottelu on todella tärkeää ymmärtää, joten suosittelen hakemaan lisämateriaalia aiheesta, jos et korttien perusteella aihetta ymmärrä. 
+- Hengitysvajauksien jaottelua tyypin 1 ja 2 hengitysvajauksiin ei painoteta kurssilla (sivutaan aihetta), mutta jaottelu on todella tärkeää ymmärtää, joten suosittelen hakemaan lisämateriaalia aiheesta, jos et korttien perusteella aihetta ymmärrä.
+
+  - Aihe tulee seuraavan kerran käsittelyyn Anestesiologian ja tehohoidon kurssilla (C7). Kyseisen kurssin ennakkomateriaaleihin kuuluu tämän Pauline Sjöholmin tekemän [Youtube-videon](https://youtu.be/lxehESP5V-g?si=c-9wuF_Sta1Xp3fq) katsominen. Suosittelen katsomaan tämän jo tässä vaiheessa. 
 
 
 ### Luento 01: Hengenahdistuksen mekanismit ja hoito
@@ -28,12 +30,13 @@ Luennon tärkein aihe on erilaiset lisähappi-/ventilaatiolaitteet, mutta ymmär
 
 - Moodleenkin linkatut [Tyks:n Uni- ja hengityskeskuksen hengitysvajaus-oppaat](https://www.tyks.fi/ammattilaiselle/ammattilaisten-palvelut-ja-ohjeet/tyks-uni-ja-hengityskeskus-ammattilaiselle/hengitysvajaus-ammattilaiselle)
 
+- Anestesiologian ja tehohoidon kurssin (C7) ennakkomateriaaleihin kuuluva Pauline Sjöholmin tekemä [Youtube-video](https://youtu.be/m3JOqP7bbuI?si=UqonxoHqgMbGMhru) hengityksen tukemisesta. Suosittelen katsomaan tämän jo tässä vaiheessa. 
+
 - Tämän [Reddit-postauksen](https://www.reddit.com/r/doctorsUK/comments/1983goz/can_someone_explain_the_difference_between_cpap/) ensimmäinen vastaus
 
 - [Conan Liu](https://youtu.be/re1Gopc8mCI?si=1qjSDK3kQ9r1n1c_)
 
 - [Hamilton medical](https://www.hamilton-medical.com/en_FI/Article-page~knowledge-base~0a23091e-4fb0-4626-964d-a36ff984b8dc~A-comprehensive-guide-to-noninvasive-ventilation--NIV-~.html)
-
 
 - [Strong medicine](https://youtu.be/H24YhlQblRM?si=TOwJG8rlcsFm--7C)
 

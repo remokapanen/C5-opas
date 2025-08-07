@@ -2,7 +2,7 @@
 
 Suosittelen todella vahvasti suorittamaan kurssin C4/C5-kesällä. Kurssi on todella nopeasti suorittettavissa verkkokurssina. 
 
-## Biostastistiikan harjoitustyö {#Biostatistiikan-harjoitustyo}
+## Biostatistiikan harjoitustyö {#Biostatistiikan-harjoitustyo}
 
 Harjoitustyössä rakennetaan moodlesta löytyvästä valmiista datasetistä tieteellinen julkaisu. Eri ihmisillä on eri kohdat dataa, joita he analysoivat, joten pääsääntöisesti ei oikein pysty suoraan kopioimaan kaverilta vastauksia. Jos kuitenkin satut saamaan saman tehtävän kuin minä, niin voit halutessasi ottaa [vastauksestani](Kontsa/KapanenRemoMEDI3314-3002.pdf) mallia. Tehtävänantoni on kirjattu pdf:n alkuun, sieltä voi tarkistaa onko sinulla sama. Toivottavasti vastaus nopeuttaa työtäsi edes hieman, vaikka tehtäväsi ei olisikaan täysin sama. 
 

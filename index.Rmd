@@ -23,8 +23,13 @@ Näiden kolmen isomman kurssin lisäksi syksyllä on myös muitakin pakollisia k
 
 Loput pikkukurssit C5-syksyllä ovat säteilysuojelu, diagnostisten alojen yhteisopetus ja havainnosta päättelyyn II (HP2).
 
-Kaiken kaikkiaan kursseja on monta, mutta niiden sisältämät kokonaisuudet ovat todella pieniä ja tekemistä ei ole kovinkaan paljoa, jonka takia syksy tuntuu koulun suhteen todella tyhjältä. Jos miettii reissaamista syksyllä, niin hyvin pystyy tehdä viikon tai jopa pidemmänkin matkan, jos vain vähän siirtelee pakollisia opetuksia toisten ryhmien kanssa tai tekee muutamia helppoja korvattavia tehtäviä. 
+Kaiken kaikkiaan kursseja on monta, mutta niiden sisältämät kokonaisuudet ovat todella pieniä ja tekemistä ei ole kovinkaan paljoa, jonka takia syksy tuntuu koulun suhteen todella tyhjältä. Jos miettii reissaamista syksyllä, niin hyvin pystyy tehdä viikon tai jopa pidemmänkin matkan, jos vain vähän siirtelee pakollisia opetuksia toisten ryhmien kanssa tai tekee muutamia helppoja korvaavia tehtäviä. 
 
+## Rankin käyttö {#Rankin-kaytto}
+
+Lähes kaikesta C5:lla opiskeltavasta on tehty valmiit Anki-kortit Rankiin. Jos et ole pakkaa ennen käyttänyt, suosittelen lukemaan Rankin käytön ohjeet [nettisivuilleni](https://remokapanen.com/ranki/) linkatuista oppaista. Jos olet käyttänyt pakkaa aikaisemmin, mutta et ole päivittänyt sitä hetkeen, suosittelen menemään päivittämisen jälkeen Ankissa Browse->Notes->Clear Unused Tags (muuten saattaa olla paljon vanhoja turhia tägejä näkyvissä).
+
+Jos et osaa käyttää Ankia tai haluat vinkkejä sen parempaan käyttämiseen (esim. FSRS:n päälle laittaminen), suosittelen lukemaan [Anki-oppaani](https://ankin-perusteet.netlify.app/) (myös nettisivuillani Anki-alaotsikon alla). Olen koittanut asetella kortit niin, että ne käyvät asiat loogisessa järjestyksessä, jonka takia suosittelen asettamaan pakan asetukset ainakin Display Order-asetusten suhteen samanlaiseksi kuin oppaassani.
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

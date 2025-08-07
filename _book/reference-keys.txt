@@ -1,4 +1,5 @@
 C5-pahkinankuoressa
+Rankin-kaytto
 Laboratoriolaaketiede
 opiskelun-workflow
 laboratorion-toiminta
