@@ -4,7 +4,14 @@ Syksy alkaa laboratoriolääketieteen kurssilla, joka koostuu 18 luennosta, 4 se
 
 ## Opiskelun workflow  
 
-Luennot jättävät usein asioita hyvin pinnallisesti käsitellyiksi, ja seminaareissa (tai ainakin seminaarien vastausteksteissä) usein syvennytään hieman enemmän aiheisiin. Suosittelen lataamaan kaikkien seminaarien ja harjoitustöiden vastaus-pdf:t Caliduksen (tai jonkun muun vuosikurssin) Moodlesta ja lukemaan ne läpi ennen tiettyjen tagien läpikäymistä Rankissa. 
+Luennot jättävät usein asioita hyvin pinnallisesti käsitellyiksi, ja seminaareissa (tai ainakin seminaarien vastausteksteissä) usein syvennytään hieman enemmän aiheisiin. Suosittelen lataamaan kaikkien seminaarien ja harjoitustöiden vastaus-pdf:t Caliduksen (tai jonkun muun vuosikurssin) Moodlesta ja lukemaan ne läpi ennen tiettyjen tagien läpikäymistä Rankissa. Jos ne on poistettu sieltä, niin ne voi lataa tästäkin: 
+
+- [LAB2](Kontsa/LAB2.pdf)
+- [LAB3](Kontsa/LAB3.pdf)
+- [LAB4](Kontsa/LAB4.pdf)
+- [LAB5](Kontsa/LAB5.pdf)
+- [LAB6](Kontsa/LAB6.pdf)
+- [LAB7](Kontsa/LAB7.pdf)
 
 Seuraavaksi käydään läpi opiskelun workflow Rankin tägeittäin sen suhteen, että mitä suosittelen luettavaksi/katsottavaksi ennen Rankin kortteihin hyppäämistä. **Kertauksena siis: Rankin käyttöperiaate on se, että ensin opiskellaan aihe ja vasta sitten unsuspendataan ja käydään läpi aiheeseen liittyvät kortit.**
 
